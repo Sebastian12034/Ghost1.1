@@ -1,3 +1,6 @@
-./containerd/
-./ghost_mysql/
+\containerd
 
+#ignorar la carpeta
+\ghost_mysql
+*/ghost_mysql/*
+ghost_mysql/*
